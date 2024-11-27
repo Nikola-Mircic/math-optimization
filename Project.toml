@@ -1,0 +1,4 @@
+name = "NumericalAnalysis"
+uuid = "c61bdce4-bd6d-4c81-b19e-ff4c51d04813"
+authors = ["Nikola-Mircic <nikola123mircic@gmail.com>"]
+version = "0.1.0"
