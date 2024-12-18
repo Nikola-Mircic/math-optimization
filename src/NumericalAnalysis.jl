@@ -1,7 +1,5 @@
 module NumericalAnalysis
+    include("linear/LinearEquations.jl");
 
-greet() = println("Hello World!")
-
-greet()
-
+    export LinearEquations;
 end # module NumericalAnalysis
