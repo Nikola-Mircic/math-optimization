@@ -1,6 +1,6 @@
-# Numerical analysis
+# Mathematical optimization
 
-A set of algorithms for numerical analysis.
+A set of algorithms for mathematical optimization.
 All of the implementations are written using the Julia programming language.
 
 List of algorithms/methods:
