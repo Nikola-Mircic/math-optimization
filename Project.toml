@@ -1,5 +1,5 @@
-name = "NumericalAnalysis"
-uuid = "c61bdce4-bd6d-4c81-b19e-ff4c51d04813"
+name = "MathOptimization"
+uuid = "263a205c-fdfc-46e7-9a1e-9641a8222882"
 authors = ["Nikola-Mircic <nikola123mircic@gmail.com>"]
 version = "0.1.0"
 
