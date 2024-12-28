@@ -11,7 +11,6 @@ solving systems of linear equations, inverting matrices, and computing determina
 
 # Arguments:
         - `A` : coeficient matrix
-        - 'B' : coeficient vector
 
 # Returns:
     - `L` : Lower triangular matrix

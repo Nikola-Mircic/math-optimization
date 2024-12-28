@@ -2,9 +2,11 @@ module LinearEquations
 
     include("cramer.jl");
     include("gauss.jl");
-    include("doolitlle.jl");
+    include("doolittle.jl");
+    include("crout.jl");
 
     export cramer;
     export gauss;
-    export doolitlle;
+    export doolittle;
+    export crout;
 end
