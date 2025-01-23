@@ -1,4 +1,4 @@
-module NumericalAnalysis
+module MathOptimization
     include("linear/LinearEquations.jl");
 
     export LinearEquations;
