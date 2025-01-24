@@ -1,5 +1,7 @@
 module MathOptimization
     include("linear/LinearEquations.jl");
+    include("nonlinear/NonlinearEquations.jl");
 
     export LinearEquations;
-end # module NumericalAnalysis
+    export NonlinearEquations;
+end # module MathOptimization
