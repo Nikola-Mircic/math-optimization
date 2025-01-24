@@ -6,4 +6,6 @@ using Test;
     include("linear/gauss.jl");
     include("linear/doolittle.jl");
     include("linear/crout.jl");
+
+    include("nonlinear/newton-raphson.jl");
 end
