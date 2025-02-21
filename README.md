@@ -9,3 +9,4 @@ List of algorithms/methods:
 - [Gauss-Jordan elimination](https://github.com/Nikola-Mircic/num-analysis/blob/main/src/linear/gauss.jl)
 - [Doolittle's method for LU decomposition](https://github.com/Nikola-Mircic/num-analysis/blob/main/src/linear/doolittle.jl)
 - [Crout's method for LU decomposition](https://github.com/Nikola-Mircic/num-analysis/blob/main/src/linear/crout.jl)
+- [Newton-Raphson method](https://github.com/Nikola-Mircic/math-optimization/blob/main/src/nonlinear/newton-raphson.jl)
