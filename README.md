@@ -13,3 +13,5 @@ List of algorithms/methods:
 - Nonlinear:
   - [Newton-Raphson method](https://github.com/Nikola-Mircic/math-optimization/blob/main/src/nonlinear/newton-raphson.jl)
   - [Halley's method](https://github.com/Nikola-Mircic/math-optimization/blob/main/src/nonlinear/halley.jl)
+  - [Bisection method](https://github.com/Nikola-Mircic/math-optimization/blob/main/src/nonlinear/bisection.jl)
+  - [Regula falsi ( false position method )](https://github.com/Nikola-Mircic/math-optimization/blob/main/src/nonlinear/bisection.jl)
